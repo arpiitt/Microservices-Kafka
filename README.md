@@ -21,9 +21,4 @@ Microservices-Kafka is a **demo project** showcasing the **basic working of Apac
 ## Tech Stack
 - **Java 8+** | **Spring Boot** | **Apache Kafka** | **REST APIs**
 
-## Future Enhancements
-- Add **error handling and retries** for Kafka consumers.
-- Implement **Kafka Streams** for real-time message transformation.
-- Introduce a **UI to visualize** Kafka message flow.
-
 This project is a simple **learning example** for understanding Kafka-based microservices communication. 🚀
